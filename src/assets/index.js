@@ -1,0 +1,8 @@
+import image1 from "./image1.png"
+import image2 from "./image2.png"
+import image3 from "./image3.png"
+import image4 from "./image4.png"
+import download from "./download.png"
+import reactSvg from "./react.svg"
+
+export {image1, image2, image3, image4, download, reactSvg}
